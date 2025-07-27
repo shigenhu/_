@@ -2,7 +2,7 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="nl_BE">
 <context>
-    <name>About</name>
+    <name>About</name>   
     <message>
         <location filename="about.ui" line="14"/>
         <source>About Cppcheck</source>
